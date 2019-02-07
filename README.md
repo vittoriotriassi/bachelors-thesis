@@ -12,7 +12,7 @@ The following thesis is focused on the development of a prototype that allows th
 
 ## Implementation
 
-Here you can find the source code needed to make the App's prototype work. It is already in the document's appendix though. Then, I'll give some more details.
+Here you can find the source code needed to make the App's prototype work. It is already in the document's appendix though.
 
 - [QueueManager](https://github.com/vittoriotriassi/QueueManager).
 - [AndroidClient](https://github.com/vittoriotriassi/AndroidClient).
